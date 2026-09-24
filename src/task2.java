@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class aibek {
+public class task2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int num = input.nextInt();
