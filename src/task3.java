@@ -9,4 +9,3 @@ public class task3 {
         System.out.println(k / n);
     }
 }
-}
